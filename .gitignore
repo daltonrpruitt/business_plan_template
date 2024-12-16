@@ -4,7 +4,6 @@
 *.out
 *.toc
 *.pdf
-!business_plan.pdf
 
 input_markdown_location.txt
 input_sections_list.txt
