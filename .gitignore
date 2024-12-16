@@ -1,8 +1,10 @@
+*output/
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+!business_plan.pdf
 
-*
-
-!*/
-
-!*.png
-!*.tex
-
+input_markdown_location.txt
+input_sections_list.txt
