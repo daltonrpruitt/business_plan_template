@@ -46,7 +46,6 @@ ForEach ($basename in $input_file_basenames) {
 }
 Write-Host "input markdown files = $markdown_filenames"
 
-exit
 Write-Host "Executing command: 'pdflatex -halt-on-error -output-directory $output_dir $filename_base.tex'"
 
 Set-PSDebug -Trace 1
